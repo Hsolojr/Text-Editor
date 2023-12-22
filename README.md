@@ -54,10 +54,15 @@ As a developer, I want to create notes or code snippets so that I can reliably r
 - **When** I register a service worker,
 - **Then** my static assets should be precached upon loading, along with subsequent pages and static assets.
 
-### Deployment to Render
+# Your Text Editor Application
 
-- **When** I deploy to Render,
-- **Then** I should have proper build scripts for a webpack application.
+Follow these steps to set up and run the text editor application:
+
+1. Pull and clone this branch.
+2. Run `npm i` to install necessary packages.
+3. Start the application by typing `npm start` into your console.
+
+Access the application by clicking [here](https://texteditorapplication-8182994e6598.herokuapp.com/Links).
 
 ## License
 
