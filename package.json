@@ -1,5 +1,5 @@
 {
-    "name": "your-text-editor",
+    "name": "text-editor",
     "version": "1.0.0",
     "description": "A simple text editor",
     "main": "index.js",
